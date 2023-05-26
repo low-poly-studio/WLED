@@ -93,13 +93,14 @@ const byte retro2_16_gp[] PROGMEM = {
 // http://soliton.vm.bytemark.co.uk/pub/cpt-city/nd/red/tn/Analogous_1.png.index.html
 // converted for FastLED with gammas (2.6, 2.2, 2.5)
 // Size: 20 bytes of program space.
+// NOW EDITED Imogen Wren 2023 - trying to make Pax Colours
 
 const byte Analogous_1_gp[] PROGMEM = {
-    0,   3,  0,255,
-   63,  23,  0,255,
-  127,  67,  0,255,
-  191, 142,  0, 45,
-  255, 255,  0,  0};
+    0,   150,  150, 150,
+   63,  250,  50,100,
+  127,  255,  80,
+  191, 100,  250, 45,
+  255, 90,  255,  20};
 
 
 // Gradient palette "es_pinksplash_08_gp", originally from
