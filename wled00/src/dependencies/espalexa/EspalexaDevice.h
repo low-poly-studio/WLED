@@ -1,3 +1,5 @@
+
+#pragma once
 #ifndef EspalexaDevice_h
 #define EspalexaDevice_h
 
